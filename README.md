@@ -32,8 +32,4 @@ As aforementioned and from image, we need 3 things to have it functional:
 	<>
 	
 	2. Setting MQTT-SN Broker
-	
 
-
-
-![image](https://user-images.githubusercontent.com/7111004/134437314-3f2b090a-3de1-492b-be58-d99e5a8e1371.png)
