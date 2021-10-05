@@ -16,14 +16,18 @@ As aforementioned and from image, we need 3 things to have it functional:
 	1. MQTT-SN GATEWAY, in here I am using Eclipse Paho MQTT-SN from Steve
 	2. MQTT-SN Broker that supports MQTT-SN, in here I am using RSMB
 	3. MQTT-SN Clients, in here I am using Steve's file for testing
-	
+#hello
+##hello
+
 1. Setting up the GATEWAY
 	• How to build the GATEWAY
+```
 	$ git clone https://github.com/eclipse/paho.mqtt-sn.embedded-c   
 	$ cd paho.mqtt-sn.embedded-c/MQTTSNGateway       
 	$ make   
 	$ make install   
 	$ make clean 
+```
 	
 	• How to execute the GATEWAY
 	Before executing, we need to configure the config file 
